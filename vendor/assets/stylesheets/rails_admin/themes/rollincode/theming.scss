@@ -296,11 +296,12 @@ a.navbar-brand {
   }
 
   li.active a {
-    background: darken($primary, 10%);
-    color: $secondary !important;
+    background: #363636 !important;
+    color: #fff !important;
 
     &:hover {
-      color: $secondary !important;
+      background: #fff !important;
+      color: #363636 !important;
     }
   }
 }
