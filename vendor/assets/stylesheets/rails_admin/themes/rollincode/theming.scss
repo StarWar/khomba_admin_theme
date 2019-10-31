@@ -247,7 +247,8 @@ a.navbar-brand {
 
 .nav-pills > li > a:focus,
 .nav-pills > li > a:hover {
-  color: $secondary !important;
+  background: #fff !important;
+  color: #363636 !important;
 }
 
 .root_links {
